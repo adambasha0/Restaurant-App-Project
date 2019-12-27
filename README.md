@@ -36,9 +36,9 @@ open the site the browser at http://localhost:8000
 
 # Contributing
 to develop the code the following websites were used:
-*[Caching files with serviceworker] (https://developers.google.com/web/ilt/pwa/caching-files-with-service-worker)
-*[implement accessibility] (https://developer.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/)
-*[To google API key] (https://developers.google.com/maps/documentation/javascript/get-api-key)
+*Caching files with serviceworker (https://developers.google.com/web/ilt/pwa/caching-files-with-service-worker).
+*implement accessibility (https://developer.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/).
+*To get google API key (https://developers.google.com/maps/documentation/javascript/get-api-key).
 
 # About
 * "Adam Basha" is a graduate with a master degree in Science. He has passion to learn how to build and develop websites and to write testing software code to test written code. 
