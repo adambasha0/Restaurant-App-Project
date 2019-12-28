@@ -170,6 +170,8 @@ createRestaurantHTML = (restaurant) => {
   image.setAttribute("role", "name of restaurant is " + name.innerHTML);
   image.setAttribute("alt", "name of restaurant is " + name.innerHTML);
 
+
+
   const neighborhood = document.createElement('p');
   neighborhood.innerHTML = restaurant.neighborhood;
   //Accessibility for neughborhood, Set its ARIA roles

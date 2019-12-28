@@ -38,7 +38,9 @@ open the site the browser at http://localhost:8000
 to develop the code the following websites were used:
 * 1- Caching files with serviceworker (https://developers.google.com/web/ilt/pwa/caching-files-with-service-worker).
 * 2- implement accessibility (https://developer.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/).
-* 3- To get google API key (https://developers.google.com/maps/documentation/javascript/get-api-key).
+* 3- aria in HTML (https://www.w3.org/TR/html-aria/).
+* 4- aria in HTML (https://www.w3.org/TR/html-aria/).
+* 5- To get google API key (https://developers.google.com/maps/documentation/javascript/get-api-key).
 
 # About
 * "Adam Basha" is a graduate with a master degree in Science. He has passion to learn how to build and develop websites and to write testing software code to test written code. 
